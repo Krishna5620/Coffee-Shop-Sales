@@ -1,1 +1,1 @@
-# Coffee-Shop-Sales (Data analysis dashboard)
+# Coffee-Shop-Sales (Data Analysis Dashboard)
