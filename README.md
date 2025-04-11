@@ -27,7 +27,8 @@ Brewed Black Tea – $47,932.00
 These insights will guide our strategic focus on peak hours, popular product categories, and high-performing locations. Stay tuned for more data-driven updates!
 
 ## Dashboard
-![Dashboard on Coffee shop sales](https://github.com/user-attachments/assets/fb05f9bf-e798-4642-a025-aa7031c245ed)
+![Dashboard on Coffee shop sales](https://github.com/user-attachments/assets/e5ce098f-c6bc-454c-ab49-563bc6d3483f)
+
 
 
 #CoffeeSales #DataDashboard #BusinessInsights #Fitahub #CoffeeShopPerformance
